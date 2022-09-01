@@ -20,7 +20,7 @@
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://ec2-3-83-246-47.compute-1.amazonaws.com:8081/repository/maven-group/</url>
+      <url>http://ec2-3-83-246-47.compute-1.amazonaws.com:8081/#admin/repository/repositories:maven-test</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
